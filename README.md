@@ -1,53 +1,43 @@
-# Hi, I'm Amol Patil 👋
+## Hi, I'm Amol Patil 👋
 
-### Senior Test Automation Engineer | Playwright | TypeScript | BDD | API Automation
+I'm a senior test automation engineer with 10+ years of experience. These days most of my work is
+Playwright with TypeScript. Before that it was Selenium with C# and SpecFlow. I write about what I
+learn along the way on Medium.
 
-"I am a Senior Test Automation Engineer focused on designing scalable automation frameworks, improving test efficiency and delivering reliable quality engineering solutions."
+## What I'm working on
 
-With 10+ years of experience in software testing and automation, I work across UI automation, API testing, BDD frameworks and CI/CD integration.
+**[Playwright + TypeScript + BDD framework](https://github.com/amol9patil/playwright-bdd-framework)**
+A framework I built the way I'd set one up for a team: page objects, custom fixtures, Gherkin
+scenarios, and a pipeline that checks every change.
 
-### Featured Projects
+- 22 scenarios, 102 results across Chromium, Firefox and WebKit (96 passes and 6 documented expected failures)
+- User-facing locators first, no hard waits, and a login that happens once per worker
+- GitHub Actions pipeline with lint and typecheck gates, plus Dependabot
+- Two reports: Playwright HTML to debug, reportingLabs to triage
+- Docs written for managers and BAs too: test strategy, traceability and architecture
 
-**1. Playwright BDD Automation Framework**
+## How I think about test automation
 
-[GitHub Repository](https://github.com/amol9patil/playwright-bdd-framework)
+- Tests should be readable by the people who own the requirements.
+- A flaky test is a defect. I find the cause, I don't add a wait.
+- A UI change should mean fixing one page object, nothing else.
+- Run a test twenty times before you trust it.
 
-Playwright + TypeScript + BDD framework featuring Page Object Model, reusable fixtures, cross-browser execution, CI/CD and reporting.
+## What I work with
 
-**2. Automation Engineering Portfolio**
+**Automation:** Playwright, Selenium WebDriver
+**Languages:** TypeScript, JavaScript, C#
+**BDD:** Cucumber-style Gherkin, SpecFlow
+**Design:** Page Object Model, fixtures, data-driven tests
+**CI/CD:** GitHub Actions, Azure DevOps
+**Tools:** Git, Jira
 
-[View Portfolio Repository](https://github.com/amol9patil/TestAutomation-AmolPatil.github.io)
+## What I write
 
-My professional portfolio showcasing automation engineering experience, projects and technical expertise.
+Practical notes from real work on [Medium](https://medium.com/@amol9patil). Recent posts cover
+Playwright HTTPS errors on staging, what changed in Playwright 1.64, and whether Mobilewright can
+be the Playwright of mobile.
 
-**3. Professional Resume**
+## Find me
 
-[View Resume Repository](https://github.com/amol9patil/Amol-Patil-Test-Automation-Resume)
-
-My professional experience, technical skills and career journey.
-
-### Technical Skills
-
-- **UI Automation:** Playwright, Selenium WebDriver
-- **Languages:** TypeScript, JavaScript, C#
-- **BDD:** Cucumber, SpecFlow, Reqnroll
-- **API Testing:** Postman, REST API Automation
-- **Framework Design:** Page Object Model, Fixtures
-- **CI/CD:** GitHub Actions, Azure DevOps, Jenkins
-- **Tools:** Git, Jira, SQL, Appium
-
-### Technical Writing
-
-I share practical automation solutions, lessons learned and testing experiences.
-
-[Medium – @amol9patil](https://medium.com/@amol9patil)
-
-### 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/amol9patil/)
-- [GitHub](https://github.com/amol9patil)
-- [Medium](https://medium.com/@amol9patil)
-
----
-
-*Building reliable automation. Improving software quality.*
+[LinkedIn](https://www.linkedin.com/in/amol9patilap) | [Medium](https://medium.com/@amol9patil)
