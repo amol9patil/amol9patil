@@ -2,9 +2,9 @@
 
 ### Senior Test Automation Engineer | Playwright | TypeScript | BDD | API Automation
 
-I am a Test Automation Engineer focused on building reliable, scalable and maintainable automation frameworks.
+"I am a Senior Test Automation Engineer focused on designing scalable automation frameworks, improving test efficiency and delivering reliable quality engineering solutions."
 
-With 9+ years of experience in software testing and automation, I work across UI automation, API testing, BDD frameworks and CI/CD integration.
+With 10+ years of experience in software testing and automation, I work across UI automation, API testing, BDD frameworks and CI/CD integration.
 
 ### Featured Projects
 
