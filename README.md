@@ -27,10 +27,15 @@ scenarios, and a pipeline that checks every change.
 ## What I work with
 
 **Automation:** Playwright, Selenium WebDriver
+
 **Languages:** TypeScript, JavaScript, C#
+
 **BDD:** Cucumber-style Gherkin, SpecFlow
+
 **Design:** Page Object Model, fixtures, data-driven tests
+
 **CI/CD:** GitHub Actions, Azure DevOps
+
 **Tools:** Git, Jira
 
 ## What I write
