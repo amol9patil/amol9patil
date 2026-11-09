@@ -6,7 +6,7 @@ I am a Test Automation Engineer focused on building reliable, scalable and maint
 
 With 9+ years of experience in software testing and automation, I work across UI automation, API testing, BDD frameworks and CI/CD integration.
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **1. Playwright BDD Automation Framework**
 
@@ -26,7 +26,7 @@ My professional portfolio showcasing automation engineering experience, projects
 
 My professional experience, technical skills and career journey.
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 - **UI Automation:** Playwright, Selenium WebDriver
 - **Languages:** TypeScript, JavaScript, C#
@@ -36,7 +36,7 @@ My professional experience, technical skills and career journey.
 - **CI/CD:** GitHub Actions, Azure DevOps, Jenkins
 - **Tools:** Git, Jira, SQL, Appium
 
-### ✍️ Technical Writing
+### Technical Writing
 
 I share practical automation solutions, lessons learned and testing experiences.
 
