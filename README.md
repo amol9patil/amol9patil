@@ -1,4 +1,4 @@
-## Hi, I'm Amol Patil 👋
+## Hi, I'm Amol Patil
 
 I'm a senior test automation engineer with 10+ years of experience. These days most of my work is
 Playwright with TypeScript. Before that it was Selenium with C# and SpecFlow. I write about what I
