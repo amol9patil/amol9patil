@@ -38,11 +38,18 @@ scenarios, and a pipeline that checks every change.
 
 **Tools:** Git, Jira
 
+
 ## What I write
 
-Practical notes from real work on [Medium](https://medium.com/@amol9patil). Recent posts cover
-Playwright HTTPS errors on staging, what changed in Playwright 1.64, and whether Mobilewright can
-be the Playwright of mobile.
+I share practical lessons and experiences from real-world test automation projects on [Medium](https://medium.com/@amol9patil).
+
+**Recent articles:**
+
+- - [How to Migrate a Selenium C# NUnit Reqnroll or SpecFlow Test Suite to Playwright TypeScript BDD](https://medium.com/@amol9patil/how-to-migrate-a-selenium-c-nunit-reqnroll-or-specflow-test-suite-to-playwright-typescript-bdd-22e1de389d24) — A practical guide to planning and migrating an existing Selenium test suite to Playwright TypeScript BDD.
+- [Building a Playwright TypeScript BDD Framework: From Design to Execution](https://medium.com/@amol9patil/building-a-playwright-typescript-bdd-framework-from-design-to-execution-00f192867e8d) — Framework architecture, design decisions and implementation.
+- [Fixing Playwright HTTPS Errors on Staging](https://medium.com/@amol9patil) 
+- [What's New in Playwright 1.64](https://medium.com/@amol9patil)
+- [Mobilewright: Can It Be the Playwright of Mobile?](https://medium.com/@amol9patil)
 
 ## Find me
 
